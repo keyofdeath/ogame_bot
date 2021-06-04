@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ogame = "==7.6.6.20"
+python-dotenv = "==0.17.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
